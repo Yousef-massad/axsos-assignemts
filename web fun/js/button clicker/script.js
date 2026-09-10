@@ -5,3 +5,7 @@ function change(element){
 function rem(element){
     element.remove();
 }
+
+function show(){
+    alert("ninja was liked")
+}
